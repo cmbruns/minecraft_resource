@@ -1,0 +1,3 @@
+resource-pack=https\://github.com/cmbruns/minecraft_resource/blob/main/chicken_to_duck.zip?raw\=true
+resource-pack-sha1=037d706c311ef8bbc555a3382361bead1a948197
+resource-pack-id=5bb63026-339c-4025-b59f-9e7238e7d147
